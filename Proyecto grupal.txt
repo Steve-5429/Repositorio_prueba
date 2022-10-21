@@ -5,5 +5,14 @@ Empecemos con todo
 siiii xd
 <html><html/>
 <h1> Hola soy milton </h1>
-
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<title>SalomonRengifo.com<title/>
+<meta charset="UTF-8">
+<meta name="title" content="Título de mi página">
+<head/>
+<body>Bienvenido<body/>
+<html/>
+<h1> Hola soy milton </h1>
 
